@@ -3,7 +3,7 @@
 
 /*
  *  Base Code   : Banghasan
- *  moded    	: BangAchil
+ *  moded    	  : BangAchil
  *  Email     	: kesumaerlangga@gmail.com
  *  Telegram  	: @bangachil
  *
@@ -17,11 +17,9 @@
 
 //=====================================================PLEASE NOT TO BE DELETED====================================================//
 
-  //////// //////////PORT SERVICE API HARUS ENABLE DAN DEFAULT (Custom port Comingsoon) //////////////////////
+  //////// //////////PORT SERVICE API HARUS ENABLE DAN DEFAULT//////////////////////
 
  /*
- Kali ini sedikit berbeda dengan versi yang sebelumnya sangat berbeda terdapat command yang saya
- gabungkan kedalam command induk seperti mikrotik
  Command avalibe update time
  * /address
  * /pool
@@ -45,8 +43,6 @@
 
  /************************************************************************************
  * ** methode long poolling** *
- *
- *
  * Perisapkan Sebuah PC atau sebuah vps
  * OS windows Linux other
  * Internet
@@ -120,7 +116,6 @@ https://api.telegram.org/botsHgGbgHhTRdCcDFfFDcFfdEwWsXcvVBhJujYt/setWebhook?url
 17.  Bot sudah memiliki engine
  */
 
- //Bedanya longpoling dan webhook bisa cari digoogle ya
 
 
 
@@ -1328,5 +1323,3 @@ $bot->on('new_chat_member', function() {
 });
 
 $bot->run();
-
-//Donasi ? Send Message to @bangachil
