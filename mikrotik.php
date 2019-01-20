@@ -96,7 +96,6 @@ Persiapan Webhook
 9.   Edit File Mikrotik.php Dan Data.json Mengunkan notepade ++ atau sejenisnya
 
 10.  Jika sudah diedit
-
 11.  Upload Seluruh Folder bot ke hosting
 
 12.  Saatnya menjalankan Bot
